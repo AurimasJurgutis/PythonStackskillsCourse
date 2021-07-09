@@ -1,0 +1,4 @@
+1. Make sure you have Anaconda/Miniconda 3 installed in your computer as the script only runs in python command prompts
+2. Make sure that all 2 files (hash_algo.py, project_script.py) are in the same directory before running the program
+3. Once you run the project script file, a data.txt file containing a combination of 100000 quotes and emails will appear in the file directory, do not delete this file!!!
+4. Run the hash_algo.py file and the required quote (Do not leave me Murph, all I do is win win win no matter what!) which was coded into the program will appear, meaning that the quote was found successfully in the pile of data hidden in the text file.
